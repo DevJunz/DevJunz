@@ -24,6 +24,6 @@ jobs:
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
           accept_header: "*/*"
           max_post_count: 3
-          # 표시 형식 커스터마이징 (날짜 포함)
-          template: "- [$title]($url) — $date $newline"
+          # 표시 형식 커스터마이징: $newline을 앞에 둬야 START 마커와 줄이 분리됨
+          template: "$newline- [$title]($url) — $date"
           date_format: "yyyy.mm.dd"
