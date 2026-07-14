@@ -36,10 +36,10 @@
 ## 📝 Latest Blog Posts
 
 <!-- 아래 마커 사이는 GitHub Actions가 자동으로 채워줍니다. 직접 수정하지 마세요! -->
-<!-- BLOG-POST-LIST:START -->- [모던 자바스크립트 Deep Dive 3장 자바스크립트 개발 환경과 실행 방법](https://pinkcamel.tistory.com/5) — 2026.07.07 
-- [모던 자바스크립트 Deep Dive 2장 자바스크립트란?](https://pinkcamel.tistory.com/4) — 2026.07.05 
-- [내가 생각하는 하네스의 단점과 프롬프트의 중요성](https://pinkcamel.tistory.com/3) — 2026.07.02 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [모던 자바스크립트 Deep Dive 3장 자바스크립트 개발 환경과 실행 방법](https://pinkcamel.tistory.com/5) — 2026.07.07
+- [모던 자바스크립트 Deep Dive 2장 자바스크립트란?](https://pinkcamel.tistory.com/4) — 2026.07.05
+- [내가 생각하는 하네스의 단점과 프롬프트의 중요성](https://pinkcamel.tistory.com/3) — 2026.07.02<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
