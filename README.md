@@ -37,9 +37,9 @@
 
 <!-- 아래 마커 사이는 GitHub Actions가 자동으로 채워줍니다. 직접 수정하지 마세요! -->
 <!-- BLOG-POST-LIST:START -->
+- [모던 자바스크립트 Deep Dive 4장 변수](https://pinkcamel.tistory.com/8) — 2026.07.20
 - [1장 사용자 수에 따른 규모 확장성](https://pinkcamel.tistory.com/7) — 2026.07.16
-- [다섯 번째 사담콘 참여후기](https://pinkcamel.tistory.com/6) — 2026.07.14
-- [모던 자바스크립트 Deep Dive 3장 자바스크립트 개발 환경과 실행 방법](https://pinkcamel.tistory.com/5) — 2026.07.07<!-- BLOG-POST-LIST:END -->
+- [다섯 번째 사담콘 참여후기](https://pinkcamel.tistory.com/6) — 2026.07.14<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
