@@ -37,9 +37,9 @@
 
 <!-- 아래 마커 사이는 GitHub Actions가 자동으로 채워줍니다. 직접 수정하지 마세요! -->
 <!-- BLOG-POST-LIST:START -->
+- [AWSKRUG #AIEngineering 소모임 &lpar;7월 29일&rpar; - 실전 GenAI 애플리케이션 만들기 후기](https://pinkcamel.tistory.com/11) — 2026.08.09
 - [AWSKRUG 비기너 소모임 &lpar;7월 22일&rpar; 후기](https://pinkcamel.tistory.com/10) — 2026.07.26
-- [[모던 자바스크립트 Deep Dive] 5장 표현식과 문](https://pinkcamel.tistory.com/9) — 2026.07.21
-- [[모던 자바스크립트 Deep Dive] 4장 변수](https://pinkcamel.tistory.com/8) — 2026.07.20<!-- BLOG-POST-LIST:END -->
+- [[모던 자바스크립트 Deep Dive] 5장 표현식과 문](https://pinkcamel.tistory.com/9) — 2026.07.21<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
